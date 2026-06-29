@@ -10,6 +10,7 @@ My LC Profile - https://leetcode.com/u/UdayCodesLeet/
 | [0015-3sum](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0075-sort-colors) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/udaycodes004/LeetCode-Grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +39,12 @@ My LC Profile - https://leetcode.com/u/UdayCodesLeet/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/udaycodes004/LeetCode-Grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/udaycodes004/LeetCode-Grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
