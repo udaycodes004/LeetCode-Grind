@@ -1,5 +1,5 @@
 # LeetCode-Grind
-My LC Profile - https://leetcode.com/u/UdayCodesLeet/
+## My LC Profile - https://leetcode.com/u/UdayCodesLeet/
 # DSA Sheets 
 ## Rising Brains - https://www.risingbrain.org/sheet 
 ## AlgoMaster - https://algomaster.io/
