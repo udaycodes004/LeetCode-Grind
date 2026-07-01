@@ -26,6 +26,7 @@ Restarting my DSA Journey wth Python
 | [0904-fruit-into-baskets](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/udaycodes004/LeetCode-Grind/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/udaycodes004/LeetCode-Grind/tree/master/1480-running-sum-of-1d-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/udaycodes004/LeetCode-Grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -86,6 +87,7 @@ Restarting my DSA Journey wth Python
 | [0713-subarray-product-less-than-k](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/udaycodes004/LeetCode-Grind/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/udaycodes004/LeetCode-Grind/tree/master/1480-running-sum-of-1d-array) |
 ## Counting
 |  |
 | ------- |
