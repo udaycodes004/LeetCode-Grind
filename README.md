@@ -1,9 +1,9 @@
 # LeetCode-Grind
-
+My LC Profile - https://leetcode.com/u/UdayCodesLeet/
 # DSA Sheets 
 ## Rising Brains - https://www.risingbrain.org/sheet 
 ## AlgoMaster - https://algomaster.io/
-# Resource Channels - 
+# Resource Channels 
 ## Rising Brains - https://www.youtube.com/@rbanjalikumari
 ## Striver - https://www.youtube.com/@takeUforward
 ## NeetCode - https://www.youtube.com/@NeetCode
