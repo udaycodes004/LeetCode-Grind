@@ -18,6 +18,7 @@ Restarting my DSA Journey wth Python
 | [0042-trapping-rain-water](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0704-binary-search) |
@@ -83,6 +84,7 @@ Restarting my DSA Journey wth Python
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0724-find-pivot-index) |
@@ -92,4 +94,8 @@ Restarting my DSA Journey wth Python
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0992-subarrays-with-k-different-integers) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
