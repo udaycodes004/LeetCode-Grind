@@ -30,6 +30,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/udaycodes004/LeetCode-Grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/udaycodes004/LeetCode-Grind/tree/master/1480-running-sum-of-1d-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/udaycodes004/LeetCode-Grind/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/udaycodes004/LeetCode-Grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0053-maximum-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/udaycodes004/LeetCode-Grind/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
 | ------- |
