@@ -17,6 +17,7 @@
 | [0015-3sum](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0303-range-sum-query-immutable) |
@@ -86,6 +87,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0713-subarray-product-less-than-k) |
@@ -119,4 +121,8 @@
 | [0125-valid-palindrome](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0680-valid-palindrome-ii) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
