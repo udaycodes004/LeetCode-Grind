@@ -125,4 +125,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/udaycodes004/LeetCode-Grind/tree/master/0074-search-a-2d-matrix) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/udaycodes004/LeetCode-Grind/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
